@@ -1,5 +1,5 @@
 ---
-description: Our atheletes compete in sports such as gynmastics, snowboarding, skateboarding, and wakeboarding.
+description: Nikko competes in sports such as gynmastics, snowboarding, skateboarding, and wakeboarding.
 menus: "main"
 title: Competative Athlete
 categories: ["Snowboarding", "Skateboarding"]
