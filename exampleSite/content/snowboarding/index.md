@@ -8,6 +8,8 @@ resources:
   - src: IMG_1596.png
     params:
       cover: true
+  - src: /images/Nikko-1.png
+    title: Kingvale Rail Park  
 ---
 
 
