@@ -1,8 +1,8 @@
 ---
-description: Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
+description: Snowboarding is awesome 
 menus: "main"
-title: Nature
-categories: ["nature"]
+title: Snowboarding
+categories: ["Snowboarding"]
 weight: 3
 params:
   featured_image: azzedine-rouichi-ZS_XuDZmxpM-unsplash.jpg
@@ -14,3 +14,6 @@ resources:
     params:
       cover: true
 ---
+
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
