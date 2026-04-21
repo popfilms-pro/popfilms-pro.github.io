@@ -3,21 +3,21 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
-timeZone = "Europe/Berlin"
+timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "Gallery"
+title = "P.O.P Films"
 
 [params]
   defaultTheme = "dark"
   description = "Progression of Perfection Films"
-  title = "POP Films"
+  title = "P.O.P. Films"
   [params.author]
-    email = "user@example.com"
+    email = "necoentertainers@gmail.com"
     name = "Nikko Kimbrough"
   [params.socialIcons]
     instagram = "https://www.instagram.com/p.o.p.films"
     github = "https://github.com/ProgressionOverPerfectionFilms"
-    #youtube = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
+    youtube = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
     #email = "mailto:user@example.com"
     website = "https://progressionoverperfectionfilms.github.io/"
     #mastodon = "https://example.com"
