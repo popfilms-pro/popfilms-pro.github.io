@@ -2,7 +2,7 @@
 description: Skateboarding is awesome.
 menus: "main"
 title: Skateboarding
-weight: 1
+weight: 3
 categories: ["Skateboarding"]
 params:
   theme: light
