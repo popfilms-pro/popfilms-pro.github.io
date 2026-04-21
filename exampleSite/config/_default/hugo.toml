@@ -5,11 +5,11 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "P.O.P Films"
+title = "Nikko"
 
 [params]
   defaultTheme = "dark"
-  description = "Progression of Perfection Films"
+  description = "Professional Athlete, Photographer, Masseur, and More"
   title = "P.O.P. Films"
   [params.author]
     email = "popfilmsmedia@gmail.com"
