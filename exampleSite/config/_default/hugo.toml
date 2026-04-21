@@ -50,12 +50,6 @@ title = "P.O.P Films"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
-[menu]
-  [[menu.footer]]
-    name = "YouTube"
-    url = "https://www.youtube.com/@ProgressionOverPerfectionFilms"
-    weight = 3
-
 [services]
   [services.rss]
     limit = 100
