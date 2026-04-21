@@ -1,12 +1,14 @@
 ---
-description: This is the "Animals" album. It has two sub-albums.
-keywords: [Skate-Boarding, Snow-Boarnding, Nikko-Kimbrough]
-title: Sports
+description: This is the "Gynmastics" album. 
+keywords: [Gymnastics]
+title: Gymnastics
 weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: janis-ringli-UC1pzyJFyvs-unsplash.jpg
+  - src: IMG_2399.png
     params:
       cover: true
 ---
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
