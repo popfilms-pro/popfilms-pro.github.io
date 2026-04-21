@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Contact
 rss_ignore: true
 layout: prose
 menu:
@@ -7,4 +7,4 @@ menu:
     weight: 1
 ---
 
-(Contact Info Goes Here)
+(Add Contact Info Goes Here)
