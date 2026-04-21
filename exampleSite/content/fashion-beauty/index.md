@@ -7,7 +7,7 @@ categories: ["Skateboarding"]
 params:
   theme: light
 resources:
-  - src: mina-rad-V94CguEmeos-unsplash.jpg
+  - src: IMG_3973.png
     params:
       cover: true
 ---
