@@ -17,4 +17,4 @@ description: Naughty Nikko is sexy dancer skilled lover who can make your fantas
 {{< myiframe >}}
 
 
-Check out my [Only Fans page](https://onlyfans.com/u402216658) [![Alt Text](blue.png)]([Website_URL](https://onlyfans.com/u402216658)). Let's get in touch!
+Check out my [Only Fans page](https://onlyfans.com/u402216658) [![logo](blue.png)]([Website_URL](https://onlyfans.com/u402216658)){width=10%}. Let's get in touch!
