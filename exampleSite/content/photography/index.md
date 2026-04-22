@@ -19,10 +19,6 @@ resources:
 ---
 
 
-P.O.P! Films Commercial
-
-{{< youtube Ga-EVMLCtB0&list=PL6-GJgOcM3dOpFiL1R1Wd6EgPZ-NMH1c7 >}}
-
 
 Photoshoot for Special Guest.
 
