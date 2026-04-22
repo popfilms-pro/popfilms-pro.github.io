@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-title: Nikko Kimbrough
+title: Nikko
 params:
   featured: true
   private: true # dont show as small thing
@@ -11,3 +11,5 @@ resources:
     params:
       cover: true   
 ---
+
+{{< youtube ydQdOolP_1E >}}
