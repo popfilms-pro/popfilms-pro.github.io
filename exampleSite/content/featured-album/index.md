@@ -1,6 +1,6 @@
 ---
 date: 2023-01-12
-title: Nikko Kimbrough
+title: Lifestyle
 params:
   featured: true
   private: true # dont show as small thing
