@@ -17,7 +17,4 @@ description: Naughty Nikko is sexy dancer skilled lover who can make your fantas
 {{< myiframe >}}
 
 
-
-Want to set up a phone call? [<u>Check my calender.</u>](https://calendly.com/necoentertainers/) 
-
-Check out my [Only Fans page](https://onlyfans.com/u402216658) [![Alt Text](blue.svg)]([Website_URL](https://onlyfans.com/u402216658))
+Check out my [Only Fans page](https://onlyfans.com/u402216658) [![Alt Text](blue.svg)]([Website_URL](https://onlyfans.com/u402216658)). Let's get in touch!
