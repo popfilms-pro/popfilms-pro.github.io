@@ -17,3 +17,7 @@ resources:
   - src: IMG_6879.png
     title: Skateboarding convetion in Vegas  
 ---
+
+Check out this recent photoshoot for Special Guest.
+
+{{< instagram C0rlEicp9Mn >}}
