@@ -5,7 +5,7 @@ enableRobotsTXT = true
 languageCode = "en"
 timeZone = "America/Los_Angeles"
 timeout = "120s"
-title = "Nikko"
+title = "P.O.P Films"
 [params]
   defaultTheme = "dark"
   description = "Professional Athlete, Photographer, Masseur, and More"
