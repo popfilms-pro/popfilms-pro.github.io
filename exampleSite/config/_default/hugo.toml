@@ -31,10 +31,10 @@ title = "Nikko Kimbrough"
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
 
-[params.social]
+[[params.social]]
   name = "Only Fans"
   image = "/images/social/bluesvg"
-  weight = 4
+  weight = 6
   url = "https://onlyfans.com/u402216658"
 
 [outputs]
