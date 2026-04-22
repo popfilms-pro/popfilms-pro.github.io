@@ -1,7 +1,7 @@
 ---
-description: Nikko Kimbrough is a professional athlete, photographer,  massage therapist, coach, and founder of P.O.P. Films.
+description: Naughty Model Nikko
 lastmod: 2026-04-21
-title: Nikko Kimbrough Photography
+title: Nikko XXX
 menus:
   main:
     name: Home
@@ -11,3 +11,8 @@ menus:
 #  build:
 #    publishResources: false # do not include full images. Also disable download
 ---
+
+
+<div style="padding: 15px; border: 1px solid #ccc; background-color: #f9f9f9;">
+  <strong>Subscribe now for lessons on how to work with your partners.</strong>
+</div>
