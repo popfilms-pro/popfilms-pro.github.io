@@ -4,7 +4,7 @@ title: Naughty Nikko
 params:
   featured: false
   private: true # dont show as small thing
-description: Naughty Nikko is a sexy dancer skilled and lover who can make your fantasies come true.  
+description: Naughty Nikko is a sexy dancer and skilled lover who can make your fantasies come true.  
 ---
 
 {{< myiframe >}}
