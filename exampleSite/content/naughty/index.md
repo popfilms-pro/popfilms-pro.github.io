@@ -26,4 +26,4 @@ resources:
 Let's get in touch!
 
 
-{{< button href="[https://example.com](https://onlyfans.com/u402216658)" >}}Click Me{{< /button >}}
+{{< button url="https://onlyfans.com/u402216658" text="Click Me!" >}}
