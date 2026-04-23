@@ -5,6 +5,10 @@ params:
   featured: false
   private: true # dont show as small thing
 description: Naughty Nikko is a sexy dancer and skilled lover who can make your fantasies come true.  
+resources:
+  - src: profile.png
+    params:
+      hidden: true 
 ---
 
 {{< myiframe >}}
